@@ -1,10 +1,10 @@
 # Preview App
 
-## 1. Home Page
+## 1. Detail Page
 
 ![Screenshot](home.png)
 
-## 2. Detail Page
+## 2. Home Page
 
 ![Screenshot](detail.png)
 
